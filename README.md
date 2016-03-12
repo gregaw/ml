@@ -6,9 +6,9 @@ Have a look at the attached `jupyter python` notebooks.
 
 Here are some installation instructions for jupyter if you need them: http://jupyter.readthedocs.org/en/latest/install.html 
 
-## Anomaly detection with GMM:
+## Anomaly detection with GMM
 
-### Motivation¶
+### Motivation
 
 Imagine we are running a financial platform where investors can trade things.
 
