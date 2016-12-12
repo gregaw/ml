@@ -2,7 +2,7 @@ import gzip
 import pickle
 
 def data_path(filename):
-    return '../../data/tweeterator/{}'.format(filename)
+    return '../data/tweeterator/{}'.format(filename)
 
 sentence_joiner = unichr(0x00A7)
 

@@ -9,8 +9,8 @@ import tweepy
 from tweepy import OAuthHandler
 
 # https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/
-from src.tweeterator.twitter_config import *
-from src.tweeterator.utils import create_learning_data, load_learning_data
+from twitter_config import *
+from utils import create_learning_data, load_learning_data
 
 PISTRADAMUS = ["DoRzeczy_pl", "niezaleznapl", "fronda_pl"]
 RESTRADAMUS = ["gazeta_wyborcza", "NewsweekPolska", "Polityka_pl"]
@@ -63,7 +63,7 @@ def recreate_db():
     # c.execute('''DROP TABLE tweets''')
     # c.execute('''CREATE TABLE tweets
     #              (tweet_id_str text PRIMARY KEY, tweeter_id text, json text, text text)''')
-
+    #
     # c.execute('''CREATE TABLE deps
     #              (tweeter_id text PRIMARY KEY, parent_id text)''')
 
@@ -186,8 +186,8 @@ try:
     # download_with_retweeters(TRUMP, latest=True)
     # create_trainingset(TRUMP, '../data/trainset-trumpstradamus.pkl.gz')
 
-    download_with_retweeters(ITALIAN, latest=True)
-    create_trainingset(ITALIAN, '../data/trainset-italianstradamus.pkl.gz')
+    # download_with_retweeters(ITALIAN, latest=True)
+    # create_trainingset(ITALIAN, '../data/trainset-italianstradamus.pkl.gz')
 
     # download_with_retweeters(CLINTON, latest=True)
     # create_trainingset(CLINTON, '../data/trainset-clintonstradamus.pkl.gz')

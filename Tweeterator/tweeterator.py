@@ -1,12 +1,13 @@
 import os
-from src.tweeterator.brain import Brain
-from src.tweeterator.utils import data_path
+from brain import Brain
+from utils import data_path
 
 datasets = {
-    'pis': '../../data/trainset-pistradamus1.pkl.gz',
-    'po': '../../data/trainset-restradamus1.pkl.gz',
-    'trump': '../../data/trainset-trumpstradamus.pkl.gz',
-    'clinton': '../../data/trainset-clintonstradamus.pkl.gz',
+    'pis': '../data/trainset-pistradamus1.pkl.gz',
+    'po': '../data/trainset-restradamus1.pkl.gz',
+    'trump': '../data/trainset-trumpstradamus.pkl.gz',
+    'clinton': '../data/trainset-clintonstradamus.pkl.gz',
+    'italian': '../data/trainset-italianstradamus.pkl.gz',
 }
 
 def train(maxlens, steps, dropouts, dataset):
@@ -59,7 +60,7 @@ def compare_iteration(model_prefix, iterations, diversities, training_text, seed
         for (ix, name, div), generated in sorted(result.iteritems()):
             print "ix={}, model={}, div={}| {}".format(ix, name, div, generated.encode('utf-8'))
 
-# train(maxlens=[40], steps=[4], dropouts=[0.1], dataset=filter(lambda x: x[0]=='clinton', datasets.iteritems()))
-compare_iteration('11,trump,tweets-40-2-128-0.1_', iterations=[5], diversities=[0.4]*10, training_text=datasets['trump'])
+train(maxlens=[40], steps=[4], dropouts=[0.1], dataset=filter(lambda x: x[0]=='italian', datasets.iteritems()))
+compare_iteration('11,italian,tweets-40-2-128-0.1_', iterations=[5], diversities=[0.4]*10, training_text=datasets['italian'])
 # compare_iteration('11,pis,tweets-60-8-128-0.1_', iterations=[9], diversities=[0.4]*30, training_text=datasets['pis'])
 

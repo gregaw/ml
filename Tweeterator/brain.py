@@ -15,7 +15,7 @@ from keras.optimizers import RMSprop
 import numpy as np
 import sys
 
-from src.tweeterator.utils import data_path, get_tweets_text, sentence_joiner
+from utils import data_path, get_tweets_text, sentence_joiner
 
 class LossHistory(Callback):
     def __init__(self, prefix, model, epoch_count):
