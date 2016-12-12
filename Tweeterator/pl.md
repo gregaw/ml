@@ -19,6 +19,7 @@ rt @gpcodzienna i rozpoczął wierzało https://t.co/uodvcsoy6
 - przy niskim 'diversity' wpadamy w widoczne petle
 
 diversity=0.1: politycznej polskiego politycznej polaka w polskiego politycznej polskiego politycznej polskiego w polskiego politycznej w koniec przeszłowie 
+
 diversity=0.4: pis polski w rozmawiach nie przyczątek przyczątkowym partia kontrator podpadu teraz wyborczej zapraszamy w polskiej facebo mili polsce przyszłości
 
 - im wieksze 'maxlen' - ilosc wejsc modelu, tym bardziej rozbudowane slownictwo
