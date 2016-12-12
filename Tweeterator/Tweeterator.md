@@ -54,17 +54,21 @@ Doing the above training steps on CLINTON = ["HillaryClinton", "TheBriefing2016"
 
 And now the fun part - the generated bits:
 
-Trump:
-ix=0, model=11,trump,tweets-40-2-128-0.1_5_1.57.hdf5, div=0.4| rt @danscavino: ready at incestling can't the state to support and the #trumptrain https://t.co/wliequloxjain
-ix=1, model=11,trump,tweets-40-2-128-0.1_5_1.57.hdf5, div=0.4| thank you here: https://t.co/tatas2gnpmbheljoininbinfif: he is the crooked hillary clinton https://t.co/jarssavufh
-ix=2, model=11,trump,tweets-40-2-128-0.1_5_1.57.hdf5, div=0.4| .@realdonaldtrump #trumptrain #maga #trump2016 #trump2016 https://t.co/bpfarn2vorh
-ix=3, model=11,trump,tweets-40-2-128-0.1_5_1.57.hdf5, div=0.4| rt @govpencein: thank you
-ix=4, model=11,trump,tweets-40-2-128-0.1_5_1.57.hdf5, div=0.4| thank you to the commansion to see our a https://t.co/33gvhlvycm
-ix=5, model=11,trump,tweets-40-2-128-0.1_5_1.57.hdf5, div=0.4| rt @danscavino: head beat https://t.co/jbeckolukbp
-ix=6, model=11,trump,tweets-40-2-128-0.1_5_1.57.hdf5, div=0.4| rt @jasonmillerindc: .@realdonaldtrump will americans to see you state for the movement and and our commitmer the in our corruption to republican for @trumptr
-ix=7, model=11,trump,tweets-40-2-128-0.1_5_1.57.hdf5, div=0.4| rt @govpencein: thank you to the election of #trumptrain https://t.co/umocqv1cbqh
-ix=8, model=11,trump,tweets-40-2-128-0.1_5_1.57.hdf5, div=0.4| rt @govpencein: thank you @trumptraining to the bead was @hillaryclinton as the country the country #trumptrain https://t.co/wpjochagfbbs
-ix=9, model=11,trump,tweets-40-2-128-0.1_5_1.57.hdf5, div=0.4| rt @danscavino: thank you to the donald j. trump to this jobs for the with for the corruption watching in the #americagreatagain https://t.co/qtaogwykqsj
+## Trump:
+- model=11,trump,tweets-40-2-128-0.1_5_1.57.hdf5, div=0.4
+
+> rt @danscavino: ready at incestling can't the state to support and the #trumptrain https://t.co/wliequloxjain
+> thank you here: https://t.co/tatas2gnpmbheljoininbinfif: he is the crooked hillary clinton https://t.co/jarssavufh
+> .@realdonaldtrump #trumptrain #maga #trump2016 #trump2016 https://t.co/bpfarn2vorh
+> rt @govpencein: thank you
+> thank you to the commansion to see our a https://t.co/33gvhlvycm
+> rt @danscavino: head beat https://t.co/jbeckolukbp
+> rt @jasonmillerindc: .@realdonaldtrump will americans to see you state for the movement and and our commitmer the in our corruption to republican for @trumptr
+> rt @govpencein: thank you to the election of #trumptrain https://t.co/umocqv1cbqh
+> rt @govpencein: thank you @trumptraining to the bead was @hillaryclinton as the country the country #trumptrain https://t.co/wpjochagfbbs
+> rt @danscavino: thank you to the donald j. trump to this jobs for the with for the corruption watching in the #americagreatagain https://t.co/qtaogwykqsj
+
+## Clinton:
 
 
 # Tools used
