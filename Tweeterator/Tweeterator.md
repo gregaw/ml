@@ -15,7 +15,27 @@ Main takeaway points, before we go further:
 - 'looks like' doesn't mean that the generated text makes any sense - it doesn't (word-LSTM might help, but needs to be run on a bigger machine)
 - part of fun - as in the original blog - was seeing how the model improves from just throwing a lump of random letters in first iterations to improving later on
 
+# Tools used
+
+## Keras
+
+As the AI engine giving a nice abstraction over the inner workings of the NN modeling and execution.
+
+## Tweepy
+
+For tweeter REST API access python abstraction.
+
+## numpy, pandas
+
+For data heavy lifting.
+
+## Sqlite
+
+Used for a twitter 'cache' - so as to just download tweets once. But also as a query engine to browse / join the feeds as we please
+
 # Training Trump vs Clinton model with a simple char based RNN
+
+As an example we'll use the US scene.
 
 ## Trump Model
 
@@ -78,23 +98,4 @@ And now the fun part - the generated bits:
 > rt @danscavino: thank you to the donald j. trump to this jobs for the with for the corruption watching in the #americagreatagain https://t.co/qtaogwykqsj
 
 ## Clinton:
-
-
-# Tools used
-
-## Keras
-
-As the AI engine giving a nice abstraction over the inner workings of the NN modeling and execution.
-
-## Tweepy
-
-For tweeter REST API access python abstraction.
-
-## numpy, pandas
-
-For data heavy lifting.
-
-## Sqlite
-
-Used for a twitter 'cache' - so as to just download tweets once. But also as a query engine to browse / join the feeds as we please
 
