@@ -32,5 +32,7 @@ The main idea is:
 - generate new tweets using the model
 
 Read more in the Tweeterator folder.
-- [Trump vs Clinton](Tweeterator/Tweeterator.md)
+- [Introduction and Trump vs Clinton](Tweeterator/Tweeterator.md)
 - [Gov vs Opposition (in Polish)](Tweeterator/pl.md)
+- and yes, Tweeterator speaks italian too: [Italian Tweets (La Repubblica, etc)](Tweeterator/it.md)
+
