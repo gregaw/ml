@@ -98,6 +98,7 @@ And now the fun part - the generated bits:
 > rt @danscavino: thank you to the donald j. trump to this jobs for the with for the corruption watching in the #americagreatagain https://t.co/qtaogwykqsj
 
 ## Clinton:
+- model=11,clinton,tweets-40-2-128-0.1_4_1.58.hdf5, div=0.4
 
 > rt @hillaryclinton: we came to briaat of the companies to in the contront for the bally https://t.co/scjx1spixz
 
