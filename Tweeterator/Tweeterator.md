@@ -44,7 +44,8 @@ So, let's create a TRUMP model: with
 
 	TRUMP = ["realDonaldTrump", "TeamTrump"]
 	...
-    download_with_retweeters(TRUMP, latest=True)
+	download_with_retweeters(TRUMP, latest=True)
+	create_trainingset(TRUMP, '../data/trainset-trumpstradamus.pkl.gz')
 
 
 You will see that it will download all the available @realDonaldTrump and @TeamTrump tweets, but also accounts that were retweeted most often: @TeamTrump, @EricTrump, @DanScavino, @mike_pence.
@@ -52,7 +53,7 @@ You will see that it will download all the available @realDonaldTrump and @TeamT
 
 We're ready to train the model now:
 
-	train(maxlens=[40], steps=[2], dropouts=[0.1], dataset=filter(lambda x: x[0]=='trump', datasets.iteritems()))
+	train(maxlens=[40], steps=[2], dropouts=[0.1], dataset=('trump', '../data/trainset-trumpstradamus.pkl.gz'))
 
 Depending on the parameters used it might take quite some time. 
 For the above arguments: 3hrs on a recent macbook pro, ie 6 iterations with 30mins per iteration).
