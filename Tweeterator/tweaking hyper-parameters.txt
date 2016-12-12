@@ -1,0 +1,338 @@
+
+
+----------------------
+- what's the difference between diversities?
+
+ 11,pis,tweets-40-4-128-0.2_9_1.91.hdf5, div=0.1|  politycznej polskiego politycznej polaka w polskiego politycznej polskiego politycznej polskiego w polskiego politycznej w koniec przeszłowie przeszło politycznej polskiego politycznej polskiej politycznej w polskiego politycznej z politycznej w wiele politycznej polskiej politycznej polskiego politycznych politycznej w polskiej przeciwnej w polskiej polskiego politycznej polskiego politycznej po
+11,pis,tweets-40-4-128-0.5_9_2.07.hdf5, div=0.1| leńskiej polskiej polskiej polskiej polskiej polskiej polskiej polskiej polskiej polskiej polskiej polskiej polskiej polskiej polskiej polskiej polskiej polskiej polskiej polskiej polskiej polskiej polskiej polskiej polskiej polskiej polskiej polskiej polskiej polskiej polskiej polskiej polskiej polskiej polskiej polskiej polskiej polskiej polskiej polskiej polskiej polskiej polskiej polskiej pols
+ 11,pis,tweets-40-8-128-0.2_9_1.81.hdf5, div=0.1| rt @pnisztor: polski w polski polski polskiej w polskiej https://t.co/jzazzzlsz https://t.co/seuzzzbfp
+11,pis,tweets-20-4-128-0.5_9_2.02.hdf5, div=0.1| rt @polskarowski: polskiego polski na polski polskiej w polska w polski polski na polski polski polskiej w polska polski polska polski https://t.co/ewwbwppzwb
+ 11,pis,tweets-20-4-128-0.1_9_1.81.hdf5, div=0.1| w polski polska polska polski polski polski polski polski polski polski w strzeli w polsce polski w polsce polski polski w szefo szydło w polskiej polski polski w polskiej w polski w szefo polski w konale nie wieli nie ma w polskiej polskiej polski w polsce polski w polsce polski w szef polski w polski w polski w polskiej polski w polskiej starowie nie może w szef w polskiej polski polska w polsce
+ 11,pis,tweets-20-2-128-0.1_9_2.08.hdf5, div=0.1| rzdecostka w wy polski polnelnie nie za polskie polskie prze w polski w polski policjat w polski prze ma prze na podanie polski policzna polski polski polskie prze wszystoę polski polska polski polski polski polskie prze policja po polski w polski policjat prze polski prze polski w polsk
+11,pis,tweets-40-8-128-0.1_9_1.75.hdf5, div=0.1| rt @pnisztor: po
+11,pis,tweets-20-2-128-0.5_9_2.18.hdf5, div=0.1| at przez przecież przeciwie przeczyta przez polskiej przed przed za polskiej przed przeczyta przed przed przecież przed przeczyta przeciwnie przed przeczyta polskiej w przecież przed przez przecież przeczyta polskiej polskiej przez przecież przed przeczyta polskiej przeczyta przeczyta przeczyta przez polskiej przez polskiej polskiej przez przed przed polskiej przed przed przez przecież przed przez
+11,pis,tweets-40-8-128-0.5_9_2.02.hdf5, div=0.1|  polski przed przeciek w @gpcodzienna polski polski polski polski polski polski polski polski przeciwno polski polski polski polski polski przed polskiej polski polski polski polski polski polski polski polski polski polski polski przeciwno polski polski polski polski polski polski polski polski polski polski przed polski polski polski przed polski przed polski polski przed polski w polski polski 
+11,pis,tweets-40-4-128-0.1_9_1.77.hdf5, div=0.1| rt @pnisztori: polski polski polski https://t.co/yyirbrbrr
+11,pis,tweets-20-2-128-0.2_9_1.89.hdf5, div=0.1| ak nie wielkiej polskiej polskiej polskiej w polskiej polskiej polskiej w polskiej w polskiej polskiej polskiej polskiej polskiej polskiej polskiej polskiej polskiej polskiej polskiej w polskiej w polskiej polskiej polskiej przewiedziałem przed polskiej polskiej polskiej polskiej polskiej polskiej polskiej przed polskiej polskiej polskiej w polskiej polskiej polskiej polskiej polskiej polskiej pol
+11,pis,tweets-20-4-128-0.2_9_1.87.hdf5, div=0.1| przeciwko w warszawie polski w wykował w @gpcodzienna polityczny polski w polski polski w w @gpcodzienna - "polski w warszawie w polski policja w polski w się w polsce https://t.co/wowpwowzsz
+
+11,pis,tweets-20-4-128-0.5_9_2.02.hdf5, div=0.2| rt @polskiewicz
+11,pis,tweets-20-2-128-0.2_9_1.89.hdf5, div=0.2| rt @piotrszuka @piotrsemka https://t.co/hgwstefgim
+11,pis,tweets-20-4-128-0.2_9_1.87.hdf5, div=0.2| polski w wyszkowa w @gpcodzienna o w polski w @gpcodzienna policja w w @gpcodzienna polski polski o w polski to polski polski w w warszawie polski polski na protest polski policja z w wystał w @gpcodzienna w @gpcodzienn
+11,pis,tweets-40-8-128-0.2_9_1.81.hdf5, div=0.2| rt @stzerko: w polska przed wyjaszczy nie polskiej przed po nie po polski polityczny przed się w polskiej https://t.co/wtbqikjsh
+11,pis,tweets-40-8-128-0.1_9_1.75.hdf5, div=0.2| rt @gpcodzienna po przed polski na polski polski się w #gośćwiadom, bardzie polski polska polski w polskiej przez komisji w polskiej polskiego w polskiej polskiej w @gpcodzienna przez komisji polski polski polska polska to nie może się w polski polski
+11,pis,tweets-20-2-128-0.1_9_2.08.hdf5, div=0.2| przew od wszettek policzna pol: prze polski polski prze polsty w @gpcodzienna w prze w polski po nie w polski https://t.co/qnq
+11,pis,tweets-40-4-128-0.1_9_1.77.hdf5, div=0.2| przecież nie wielki w polski polskiej przed kontrom polskiej https://t.co/rkxmnjkam
+11,pis,tweets-20-4-128-0.1_9_1.81.hdf5, div=0.2| rt @marekto polska polski skorował polski w polsce polska polski w tym wyborczej polski ministra polski w szef za wyborczej w to nie wyborczy polski polska o polskiej przed to wyborczy na wielkiej polski polska szydło w polsce pod szydło polska szydło w polsce polska 
+11,pis,tweets-40-4-128-0.2_9_1.91.hdf5, div=0.2| nie polityczne wybory z polskiej politycznej od politycznych to politycznej przez polskiego a za politycznej polskiego polecam polecam w szannie polskich na politycznych politycznych w politycznej polskiego nie przemoże przeszędzi politycznych politycznych politycznej https://t.co/aiymbwiyv
+11,pis,tweets-40-8-128-0.5_9_2.02.hdf5, div=0.2| w polski polski w tem politycznej polskiej przed polski w polski polski polski polski przeprawie w polski polski polskiej polski polskiej polski za przepierwie polski polski polski przeszanie w polski polski polski polski w polski przeciwno się polski przed polski polski polski polski za polski polski polski polski przeciek w @gpcodzienna https://t.co/wt
+11,pis,tweets-20-2-128-0.5_9_2.18.hdf5, div=0.2| at się przez polskiej przed przeczyta polskiej przeczyta przez przed przed stanie polskiej procesz przyszka przed w polskiej przez polskiej polskiej na przecież przez przed polskiej polskiej przeczyta się polskiej w w przed w przeszenienie przez polskiej polskiej polskiego polityczne przeczyta polskiej polskiej przecież przeszczynie polskiej przed polskiej przez nie na tak przeczyta przez przeciwn
+11,pis,tweets-40-4-128-0.5_9_2.07.hdf5, div=0.2| leńskiej polskiej się w polski polskiej polskiej police polskiej polskiej polskiej w prawie w przeciesz polskiej polskiej postata polskiej polskiej do przeciestowania polska polskiej polskiej polski w wielkiej to polskie się polskiej na polskiego polskiej polskiej polska polskiej przeciez przed marsza polskiej polskiej polski polskiej polski polskiej polskiej polski w prawie za wieczy w nie polski
+
+11,pis,tweets-20-4-128-0.2_9_1.87.hdf5, div=0.5| powindach w nasza za polityka na policja wyszkiego mieszawej pozycja się w kontynast i mocnej o przeciwności sprzedłuch w wieckiego poto ale kontyczność w wynikowa lista chce za https://t.co/1mnlasbezw
+11,pis,tweets-40-8-128-0.2_9_1.81.hdf5, div=0.5| rt @piotr_wan: po za biera nie z francji to jak rozwoje się w polski polskiej. się to jest z przyz sie do powinien w piszej #pis @hosiemiszeu z na wykomenturk https://t.co/jdvsvutjce
+11,pis,tweets-40-8-128-0.5_9_2.02.hdf5, div=0.5|  w to tekst się nie powinacznie czy polski sest. kontowa polakowa polski to co prosz strzeszna i to w mareku wielki z to na przeciekawie za polska politycznej rstalnie w konprzehistow gania w przestrować przed koncenta w @gpcodzienna poniedziała polski wale .@beptaskapl komisji przekiek w polska tego w szkorentalitu przeciwnie przepiszem przez zapraszamy w marsze startowania przeprawie pis pomarsz
+11,pis,tweets-40-4-128-0.2_9_1.91.hdf5, div=0.5| komisja siedziej porodzi z wybora: do się nie przeboga pol
+11,pis,tweets-40-4-128-0.5_9_2.07.hdf5, div=0.5| rt @chatonniewski zabojnie do marzy nie poroszja prawie policyjna w ich w chodzi, oroza za odpowiedział przerzuny chodziała policenie zdroczenia to polskami nie wiesze terod jest przeczyta się prezydente przed dobra nowa się pod za koniecznie polskiej rozpodzienna w szynty ciekawie zabordziej jest polski i konieta w polskiej ustawa o rozmawiała po podzi
+11,pis,tweets-40-4-128-0.1_9_1.77.hdf5, div=0.5| przeciwni przykomienia przeczynie godnie wydanie polskiej tym po @radiowaska "gradzonia. | fronda.pl https://t.co/lkeamhrc1
+11,pis,tweets-20-2-128-0.2_9_1.89.hdf5, div=0.5| komentuje. polskiej o polskiej za przewstami https://t.co/mnglqvejmo
+11,pis,tweets-20-2-128-0.5_9_2.18.hdf5, div=0.5| przed w za rozmпczem wyzje nie o tego przeprawdeci s @steaszanie w przyjenie polityczna w pramie skadowanie w nie w  w nie polska pierwsza cz
+11,pis,tweets-40-8-128-0.1_9_1.75.hdf5, div=0.5| żenia nad katastrofy było były przeciw na rzędzi, że się na polska po dzieciam wygrancie marsznie poza przewrała na bardziej nie chamstwa do przetania działanie w #gośćwiadom, bandale przed przez szef o nasz spodkiewicz w polski przeciw w wyjanują w polska" przed bez konleniu polecam wyjadem polskiej do stanowiada przez nie z ministercja może na w #gośćwiadom, że został w polski, w komisji pokazał
+11,pis,tweets-20-4-128-0.1_9_1.81.hdf5, div=0.5| protestun o na wybora nie za temat pani wybory o jądowa w 
+11,pis,tweets-20-2-128-0.1_9_2.08.hdf5, div=0.5| .@r_a_ziesh na moz spriu prawa ma za wym to wsze: policji https://t.co/kizhll2
+11,pis,tweets-20-4-128-0.5_9_2.02.hdf5, div=0.5| polski https://t.co/efwwiudyjf
+
+- low diversity means it chooses the best 
+
+----------------------
+- compare diversities 0.2, 0.4
+
+11,pis,tweets-20-2-128-0.5_3_2.05.hdf5, div=0.2| prokuratorzy w polskiej polskiej polskiej polskiej polskiej przed za teraz w stanie polskiego polskiej polskiej p
+11,pis,tweets-20-2-128-0.5_9_2.18.hdf5, div=0.2|  przewarta polskiej polskiej przed polskiego przecież przeczyta nie polskie przed przeciego przeszłowa polskiej tak przez polskiej polskiej nie za polskiej polskiej rozpolisze przed przewicznie się przed przed przed przewarcie polskiej przez to polskiej polskiej w przed polskiej polskiej polskiej szef polskiej stanie przeczyta polskiej polskiej polskiej polskiej przepodnie przed polityczna przed s
+11,pis,tweets-20-2-128-0.5_7_2.12.hdf5, div=0.2| w w rozmowa polskiej polskiej polskiej przez polskiej polskiej polskiej polskiej polskiej polskiej polskiej się w polskiej polski przez z polskie polskiej przez polskiej polski nie nie polskiej polskiej przedatanie polskiej polityka polskiej politycznej politycznychùszyli na od polskiej w koniec w polskiej polskiej polskiej nie politycznie nie politycz�rowa polskiej polski polskiej polskiej polski
+11,pis,tweets-20-2-128-0.5_2_2.07.hdf5, div=0.2| ię polski przed przed wydanie prosze przydowanie prowodzi polskiej przed przed przed przed proszę przed przed polski polskie się polski przed przed przed wydarzy przed przed przed polski przed nie prosza po przed polski przed przed przydanie przed w polski prosze na polski przed przed polska z w proszę polski w przed przed w polski przed przed przed wierzy przed polski polski polski przed w polski
+11,pis,tweets-20-2-128-0.5_1_2.21.hdf5, div=0.2| rt @piotranski: przez polski przez dziennik przed minister przestania nie nie polski polskiej na polskiej do polski o polskiej polski polskiej wielkiewicz w @gpcodzienna w rozwiedział polski w konieci w wieczenie polskiej polski polski przed na polski przez polskiego w polskiej przez polskiej w polskiej na polski przed polski przez polski w @gpcodzi
+11,pis,tweets-20-2-128-0.5_8_2.15.hdf5, div=0.2|  w polskie o polskie polskie czy w polskie stanie w to polskie polskie polskie polska polskie polskie polskie przeczyta nie polskie to polskie polskie polskie polskie polskie prze polskie polskie mieszka polskie do polskie polskie w polskie polskie na polski za polskie polskie polskie polskie polskie polskie polskie polskie polskie polski polskie przeczyta polski w polskie polskie w parta polskie 
+11,pis,tweets-20-2-128-0.5_5_2.08.hdf5, div=0.2| rt @proszem w @gpcodzienna https://t.co/sskaqdiwsd
+11,pis,tweets-20-2-128-0.5_6_2.10.hdf5, div=0.2| ministera w rozmawianie polskiej z i zamieci w komisji na o polskiej polskiej na polskiej polskiej nie na wyszenta polski się polskiej do w polskiej do do polskiej się polskiej do polskiej polskiej pod rozmiem polskiej w polskiej szekowanie do polskiej na na do polski polski w co przejakie polskiej
+11,pis,tweets-20-2-128-0.5_4_2.06.hdf5, div=0.2| y w polski w w polskiego przed proszę pod polski polski polskie polski w polski polski polski polskie nie polski przeszystyczny polski poleca do polski polski przed wiele na polskie polski w proszę przestarze w przed się w polski polskiego polski w przestanie w polski przestała polski polski polski przeszyta proszę polskiego prezydent polski przestała koniec w przed polski przed polski polski prze
+
+
+11,pis,tweets-20-2-128-0.5_3_2.05.hdf5, div=0.4| rewicz_a za polskiej polskiej marszawa polski polski polskiego przez miekanie polityczne spolejskim o w @gpcodzienna polski przeczek to kolesz polityka i mierzy wieczna w wielkie przed w wieczy przed do borowie do tekst rozmowy konieczny za polskiej poloka na mierzenie z za wielka ostronie polskiej katali w odzienie z wielki polityczne do z stanie w broni w nie w stram po wywiedza polecej jest o d
+11,pis,tweets-20-2-128-0.5_6_2.10.hdf5, div=0.4| polskiej moka w wielem w to w polski miejski w o do od przeram się na polskiej czeranie walnicznej polskiej komentarz o tylko nie za spotkanie się się to nie za wielki mona pod wymienie polskiej w za się podziennie  przed komentarz nie o ponad miejs w od to do polski polski wykolenie stanie policji w polski nie raczej tranie nie za czy za za maku zaczytał podganie podania w co w dla markowski i mi
+11,pis,tweets-20-2-128-0.5_9_2.18.hdf5, div=0.4| o  za stanie na polskiej z się branie zapanczenia do zajmie d�kraczy przed się za krakam na kontarja o wysz prawdziemy teraz atar �wraza przydał polskiej #koniszczeknie do nie �nsiekurze w w to polskiego za zapolskiej marcier przecieszczycie od polityczne nie na szekowanie ten piszę w macha merster z przeciwa piszę przeciwa konstromem  nie przeczyta przemami sowiada zaprzeznie za z przewieczna raz
+
+
+----------------------
+- which diversity is best ? 0.3 .. 0.5
+
+11,pis,tweets-20-2-128-0.5_1_2.21.hdf5, div=0.3| rania się polskiej najna polskiej w przez polskiej polski o na to przez robienia strakowania polskiej na prawa jak polskiej polskiej polskiej w tym polski zapodzie w w granie tylko przez bardziej przez do się tak polski polskim na w polska procestora w polskiej nie na za polski nie w polsce przez polski polski polskiej polskiej w przeczytanie się nie nie się polskiej polski polskiej w grania w int
+11,pis,tweets-20-2-128-0.5_7_2.12.hdf5, div=0.3| nzowa polskiej nie z polski w polski ale polskiej sobie w wielkie nie zajmie polskiego polskєniemie polskiej to polityczne się nie przez wykoda politycznie politycznej жja się zaprawda było z nie w polskiej z wyborczej zapowiedziała z polskiej polskiej raz pis polskiego polityczne w polskiej w mierze w nie to w nie politycznej polski polsk�torek polskiej nie polskiej polski do polskiej nie wiedzie
+11,pis,tweets-20-2-128-0.5_4_2.06.hdf5, div=0.3| w polski polski https://t.co/npoand
+11,pis,tweets-20-2-128-0.5_7_2.12.hdf5, div=0.4| dziennikarz w rozwiedzie przed inna w nie to w monaczysta @materoniej do bora jesдna sakiewicz przez soka. podata trafi cieratenie do i polityczne koncence w polski polskiej w lat przed do szczecznie polsk
+11,pis,tweets-20-2-128-0.5_1_2.21.hdf5, div=0.4| azeta w narodzinie w przez polski z postani przypodzienie do wiedzienia polski grało w wieczynie się przedam w straba polskim o go w polski tekst ciekowosta nie bardziej czy czeranie w przedzienie o nie nie zapraszamy polskiej na polskiej za na prawie przez polski tak za było koniec polski @marniemowski się do nie przed to po polski w w wytakta bo w dla w to na szojenie polski polski w szanie w na
+11,pis,tweets-20-2-128-0.5_4_2.06.hdf5, div=0.4| się od pod wojskiego w w za może poniedziała na przekazi polskie polak polski się kondyskacja polskie polecam po praw o to zachiowiczka w dzisiejszy z w @gpcodzienna to zabranie w @gpcodzienna polskiego jak manomini politycznych prawi pis podacie waszed https://t.co/rubnhwppsx
+11,pis,tweets-20-2-128-0.5_4_2.06.hdf5, div=0.5| nagrany nie nie do przeciwa bozwieli że się nie polski prezydentu wyburze kostanda czyszczeł się za w okazają @represzczekawak polski anwienie przed od do w @gpcodzienna w @gpcodzienna praw do https://t.co/wpnxdmakpa
+11,pis,tweets-20-2-128-0.5_1_2.21.hdf5, div=0.5| rt @prowieców polski może ta nie polski wierzenia tylko polskiał sprawie duska polskie rozobowanie w kontaki w #gośćporankaczej polski się za wielkowienie w marci w rozwiada zabraczyć 
+11,pis,tweets-20-2-128-0.5_7_2.12.hdf5, div=0.5| deszprodzii za tak o 
+
+---------------------------------
+- learning: the more dropout - the more mistakes in words - 0.1 almost gets it all right
+
+
+11,pis,tweets-20-2-128-0.5_6_2.10.hdf5, div=0.4| komisja nie podzienia https://t.co/msed5aowjb
+11,pis,tweets-20-2-128-0.5_9_2.18.hdf5, div=0.4| polityk polskiem w szczyta przej w zapowiedziarna rozmady polskie przez polskiej zemierzeska nie przy teraz z środowej anjester przegłowia mara. marsza szemowanie w z zyszem z podzienia i z .@rzezna przekenszacji i w prezydent przeczyta prawda przed i wystorzy do wardzie podraze w zaponie polskiej przeczyta przelatam do w dzisiej siоska przewiez polity w prezydent przecieczna w w konjan powodowani
+
+11,pis,tweets-20-2-128-0.2_6_1.85.hdf5, div=0.4| marcin prostewie polskiego na dziennikarze w narodowski polityku poniedziałek w @gpcodzienna | fronda.pl https://t.co/xvyltcafrs
+11,pis,tweets-20-2-128-0.2_9_1.89.hdf5, div=0.4| polskiej w prostu nie polskiego @gpcodzienna to za wyraz w to bardziej na nie wybory przegrania przesłania @strzelarad https://t.co/drbeubcety
+
+- iteration 9 got it wrong - greater loss and gibberish
+
+11,pis,tweets-20-2-128-0.1_9_2.08.hdf5, div=0.4| powie miejskiebiem sttór##wszydanstkowan proze w policja na wsze: za wszewy to maczenala polski polski do gala w domie przesticze zabiej polski w chanie się wały przy kościek policzna przeda polskie to wał sięcie w to miejska wy dzianie mamy za przewa prze w rozsa pomacji cują dobrzynyczy w polski dziaa to po mowa poczje wiarzenie prze nie się na proku w resjan trzebach przyjnowana pooów do nie za
+11,pis,tweets-20-2-128-0.1_6_1.84.hdf5, div=0.4| pis polski w rozmawiach nie przyczątek przyczątkowym partia kontrator podpadu teraz wyborczej zapraszamy w polskiej facebo mili polsce przyszłości za postawa przed wyborczej zapowiada zatrzymanym polskie przegranem szkodzić jest przed b
+
+------------------------------------------ same, but with 40 - 4
+
+- can't really spot a consistent difference between iteration 6 and 9 - both have the same loss
+
+11,pis,tweets-40-4-128-0.1_9_1.77.hdf5, div=0.4| @wybranowski @gpcodzienna @gpcodzienna #wieszwięcej #wieszwiecej https://t.co/asnqtitefb
+11,pis,tweets-40-4-128-0.1_6_1.77.hdf5, div=0.4| rt @r_a_ziemkiewicz: w polsce się za stracie na zależy na pis kontra polskiej polskiej nie było się za nie przeczytać po kontrum przeszczek w polskiej za na dla franciszych polskiej popara podaria polski w polskiej policja od pod
+
+11,pis,tweets-40-4-128-0.1_9_1.77.hdf5, div=0.4| @tygodnikzmistram nie wygodza. po powinien podstawa przez to raz w kontrafowskiej polskich na szydłowce o polski przeciwnicy w to jest komisji w szansem podawiają potrzebach nie wybrania a obrania się z w polsce najważniejszej @gpcodzienna piszę w arbali https://t.co/mbbdfeyyaa
+11,pis,tweets-40-4-128-0.1_6_1.77.hdf5, div=0.4| .@gpcodzienna https: bez w prostu przez @pawelwora politycznym się policja i komisji się pomim nie podaja może na odwoławami w przeciwko za wałęsy się w szydło. po stanie w @gpcodzienna https://t.co/uvbf2edkxk
+
+11,pis,tweets-40-4-128-0.1_9_1.77.hdf5, div=0.4| rt @gpcodzienna przyjący o polski przecież nie przeszłości https://t.co/xtrtdu8bz
+11,pis,tweets-40-4-128-0.1_6_1.77.hdf5, div=0.4| @andrzejduda https://t.co/msph4jmktr
+
+11,pis,tweets-40-4-128-0.1_9_1.77.hdf5, div=0.4| @wybranowski przeczytalne pod polski z już w od powinien po radzie się podobnej prostu zagrożnienie w czwartek to wydarzy na powinien w polsce podatku polski z to na pozobycznych po tym na polskiej https://t.co/a4rwkvfpnj
+11,pis,tweets-40-4-128-0.1_6_1.77.hdf5, div=0.4| ndy powinnie nie mach się przerzesta. w szydło: polski w wielkiego i tak na bez rozportanie i pozwiedział tekst politycznych w wielkiem powinny na przez rt @marcinguszkiewicz-owski transmisja o polskie spozsława przypowiada z @krzysztofbonej: widzi w polsce się przegruje w tym przez rozmawia na politycznych to wyszkowski informacja się polskiej polski https://t.co/ninwzrbczt https://t.co/3orhqjq4v
+
+
+------------------------------------------- 
+multiple times: 11,pis,tweets-40-4-128-0.1_6_1.77.hdf5, div=0.4
+
+@przyplus w odtwiece naszej jest w na polskiej w politych prze przez przecież za polskiej przez walenia przez nie marsze w wyrzesach poziemy zakrajone polskiej za w szydło, ale po też na film po szef polska w stania postart przecież się przez przez szydło, co przez prezydenta się przekraszenie za rozwodzi w dobry polityka zapraszam politycznej
+nie za spotkania w tym będzie rzeczy, zostać w #jaszelipski po przez rodzinem wyborczej przestrzela do wiele wspodłowa przecież się polskiej to rzepli na grupie walczenia po przedsiębie za się się na szczerza ten w polska protest w polsce transmisji w tym rozwali politycznej to polskiej https://t.co/xspztagleo
+rt @wybranowski: jest po podarał po wyrobie przez walde i podażnie politycznych marszewski w polsce w polskiej rzeplińskiej marszem wypowiada się z polskiej polska polskiej polskiej https://t.co/zctibibfnc
+rt @dorzeczy_pl: #dobryrok #wieszwiecej
+rt @brankanizelel: @dorzeczy_pl na debata to od tym bez przeszłości polskiej na polskiej na to na sprawania i nie
+rt @ryzysalizina https://t.co/oqicaadwnt
+ministerz w seksia temat przywniszych w warszawie nie odwołania polskie w rozwali się powinnie na prosze od co dziennikarz w przestrzeli nie mirojskiej i szydło w polsce w #gośćporanka https://t.co/nmnskttduf https://t.co/bksbynzstr
+polski za dobre w przez @dorzeczy_pl https://t.co/ijrflmntfs
+rt @piotrsemka: @wasszkowski: pod polskiej nie tylko w wielkiej na przez nie za bardziej w się przewnie" https://t.co/flmhkssbgo
+rt @karnkowski: @r_a_ziemkiewicz w @gpcodzienna przez @dorzeczy_pl jaki w polskiej wielkieci nie miejsce widał w rozstawania raz po tym się w ponadch się przeczytać prze przez za w spotkania
+
+
+------------------------------------------- 
+now 
+multiple times: 11,pis,tweets-20-2-128-0.1_6_1.77.hdf5, div=0.4
+same seed: sejm o lepszej ochro
+
+- visibly more polskie, polska, ...
+
+rt @gpcodzienna o jest na tupa rozmawia mały w polski w polski się w wyborcza w protestuje do polski politycznia kar
+nie polskie polskiego polska polskie do tym jest wyprowadziło nie mała może to zakona nie polskiej fala polski do prostu polski tak jak przed rozmawia polska życie czy policja jest i polaków podpiątek w @gpcodzienna  przypomina polskiego polskiego w grudy wydania styczny polskiej polskiej przed przegrał się przed wiele do polskiego w przypada w weekendowym @gpcodzienna  https://t.co/tyvedj3gpe htt
+@parewiemeracja #polak sprawiedzia zapowiedziała w dosłuchanie przed polski przegrał się z polski się przed świetnych do się od polska na grawie gobie polska polskie w polski jest do przeczytajmy polski w gdy legerają w warszawie w zarobia się za prokurat w https://t.co/fhchrfnbah
+polski w wyborczej, że pomiery zaryzył podstawa i kolejnych rozpodzieka powinnie polskiej broniczy" https://t.co/aghzgbpxpf
+jak się się był od obronie polityce polskie to politycznym w wieli za wielkiego pod się z tym proszę spotkanie się w narodowym się prokurat prezydenta #gośćporanka: szkaże za każdy do milerd do statami polskie jest tylko https://t.co/lfliuyez15
+rt @prezydentpl: https://t.co/dbkvatmndb
+polskiej prawdy z protesta zapraszam się polskiej w podeborcja https://t.co/bvejayxygb
+marcin: przeciwka komisja polskiego do akcji @piotrszamakuskiewicz przed wielkiej polskie już nie polityka do andrzeja podpiów i przed tego polskiej przypadać polskiej przeczytać w wyborczej najbora w polskiej i polska polskiej grupicy przycząte polskiej przechodziej podobni przeciwni od polskie komisji michnie wydania do tego
+rt @mon_gov_pl: polski przed postrzegany w sto w do zarobiał nie przed proceszcza tryba polskiego w polska to skandale to polityku na polskie o na przyszło
+mamy polskiej polskiej mariuszka #rodzina przeczytać polskiego kardem uproszę polskiej ustawicie i polska po ambasad https://t.co/udaeghrbbg
+
+- so the more letters (the less learning sentences) - the more various words in the output
+
+------------------------------------------- 
+- check out- bigger step, so less training samples
+
+loading training text from "../../data/trainset-pistradamus1.pkl.gz"...
+('corpus length:', 2405765)
+retrieving chars...
+('total chars:', 203)
+sentence: senatorowie po wyszli z sali https://t.c
+---- loading model: 11,pis,tweets-40-8-128-0.1_6_1.79.hdf5
+rt @gpcodzienna i rozpoczął wierzało https://t.co/uodvcsoy6
+za ale powinienie polska prezes w szef to nie polskiem https://t.co/nxziowvmgo
+rt @mr_gov_pl: w @gpcodzienna w @gpcodzienna https://t.co/thsghocpf
+nie wydanie za wiele ws. szadnie zapraszamy https://t.co/gtw9nsviy
+maria na pierwsze było zapraszamy w polskiej w strzeli na stanie się w polska przeciwnie za wydanie w polskiej o bezacha rozmamia o bez wzroskie https://t.co/5vhkwdvark
+rt @r_a_ziemkiewicz: to nie powiedział sprawie polski https://t.co/ayxg0jwuma
+rt @makowski: za po nasze można nie ten co w gorzem się tej jest zawielu szym prokuratura na wielki ma polski "przez konstru polska z polskiej" https://t.co/pnynvwuddh
+rt @stommistroski w weekend w @gpcodzienna o polskim zapraszamy https://t.co/luyqtcwxav
+catek w polskiej przegranci https://t.co/oxvysxkwb
+rt @skweshewicz: lewica polska w polska pod wydanie polskie stana strzeta może warszawie w pernowiczne przez marcie o nie dziecia nie rozmawiać w polskiego polska przed konsterona nie powiedzieł miejskie w polskiej polska zamiaste mata nie polska, o na stani do nie wydali https://t.co/wwvjtfvhek
+
+- interesting - apparently shorter overall sentences
+
+
+------------------------------------------- 
+- best so far 40-4 for longer sentences, and 40-8 for shorter (with 0.1 dropout)
+- check out - what if 60-8 ?, what if 0.0 dropout ? what if po ?
+
+--------------
+- 60-8 versus 40-8
+
+loading training text from "../../data/trainset-pistradamus1.pkl.gz"...
+('corpus length:', 2405765)
+retrieving chars...
+('total chars:', 203)
+sentence: rt @karol_gac: #mn idzie zwartym szykiem @dorzeczy_pl https:
+---- loading model: 11,pis,tweets-60-8-128-0.1_6_1.80.hdf5
+co temst https://t.co/jginnbqfbm
+/Users/gregaw/code/adhoc/keras/src/tweeterator/brain.py:74: RuntimeWarning: divide by zero encountered in log
+  preds = np.log(preds) / temperature
+naszy w polsce się przed przewodzinego rozmawia w .@macierewicz_pl: politycznej stanie chodzi o polskiego w an sie na pomówie przeszłości politycznej w @gpcodzienna https://t.co/aorouahtaf
+rt @marcin_karzywska: to wystany powinna polskiego polityczne o wymate przez szefowej na wymatel polskie polityczne polskiego polacy polityka zapraszamz zacznie do przesię politycznej temat przeszła polskiego polska się macie borazdowania koniet polskie przyzatrzenie policji https://t.co/wksvcteexs
+@makowski_m prawdziwa za polskiego w się nie wygranie w polskie przeciekawie robił od polsce za wysłanie w kanach jest o przypadki pięknej marszała we wierzym polskie przez temat w komisji sportu wiecznej raz w polsk politycznego tego tygodnika z wysłuchał po polskie się od minister w więcej #skorowana boldzie w polsce na przeszłości. w polsk chce się proc
+w sprawie dla wystane politycznego z wygradnia o nie mam https://t.co/alfohaqynz
+rt @makowski_m: zaczywanie przez chwilo w sporazycji polecam o polska z politycznej temat się polskiej od to mam polityka politycznej nie ma poprzeszczenie przed pod wałą w politycznych dzisiejszego z dzieci przez sprawie w warszawskiej słowy polskie polska w szydczy politycznego https://t.co/tkizzk3mwk
+stanie przesławie w się w przesłyszał piątek stanie politycznej polskiego polskiej w polsce w kiedy pan się na nie sekturą politycznej premie przeciwności samoronie za konsektu miejscenie polskiego polskiego polaków, tylko pod na przesława w przeszkoliśmy wielkiej w andrzej na badające dziś w @gpcodzienna https://t.co/hpvbmlzhmj
+rt @r_a_ziemkiewicz: #wierzformannego polskiej przez tym, co na na politycznej polskie tym, co stanie słowe zapisałem za borazacji program dziś w w seka, że w polskamie czas konstytucji przeszczeście przez faktów #gośćporzada w @gpcodzienna o politycznej za dzisiejszej w się zanik i polska w warszawskich pod nasze obretnikowanie przeszłości przyzastanie o to marsza tym na podasta
+w krybuje na warszawskiego https://t.co/buho0ojiha
+rt @zajbiewal @samperanada rozmawia komisji https://t.co/cnfyxmxqhh
+
+- longer sentences, more varied (so doesn't pick end of tweet that well)
+
+-----------
+- 0.0 vs 0.1 dropout
+
+
+loading training text from "../../data/trainset-pistradamus1.pkl.gz"...
+('corpus length:', 2405765)
+retrieving chars...
+('total chars:', 203)
+sentence: podlegają pod dowództwo w neapolu. będą bronić nieba nad pol
+---- loading model: 11,pis,tweets-60-8-128-0.0_6_1.76.hdf5
+/Users/gregaw/code/adhoc/keras/src/tweeterator/brain.py:74: RuntimeWarning: divide by zero encountered in log
+  preds = np.log(preds) / temperature
+rt @karol_gac: https://t.co/yostyotykv
+polityk w koniec się w się częściji konsenuch polskiej policjanie z pewno polecam się na polskę" https://t.co/eqelwaqxgy
+rt @makowski_m: jeszcze polecam #wieszwiecej
+rt @karol_gac: #wieszwiecej #gośćwiadam #wieszwiecej https://t.co/screosvegr
+w polsce polecam polskę https://t.co/e9sclsyscm
+@beataszydlo w @gpcodzienna https://t.co/yiavjojp2y
+antybura w polskę się w warszawie w konseleke. w narszenia się z pełne po polsce
+#wieszwiecej
+@alebna w @gpcodzienna https://t.co/0fmqxoehjj
+rt @piotrsemka: przewodnika wykrzynie się polska za będzie w polsce polskę z polskiej | fronda.pl https://t.co/ivaiatwqcx
+@marieszmiewicz: polski okraka https://t.co/hjahimwrqw
+11,pis,tweets-60-8-128-0.0_6_1.76.hdf5, div=0.4| @marieszmiewicz: polski okraka https://t.co/hjahimwrqw
+
+- interesting - text got much shorter (less dropout meant )
+- wydaje sie jednak, ze jest wiecej bledow
+
+- :) w polsce polecam polskę https://t.co/e9sclsyscm
+- :) rt @makowski_m: jeszcze polecam #wieszwiecej
+
+---------------
+- po vs pis
+
+loading training text from "../../data/trainset-restradamus1.pkl.gz"...
+('corpus length:', 2717903)
+retrieving chars...
+('total chars:', 424)
+sentence: i czyż olga lipińska nie była prorokiem? husaria ivrp nie sł
+---- loading model: 11,po,tweets-60-8-128-0.0_6_2.31.hdf5
+yszamy się na politycy o od przeciwka przemować na presianie w za wyśnie nie przestanie nie wybory w kaczyna i legicy prezen w miało wygląda się za nie zabawk zaprawie przestalizace w wielkie o polski nie w przestanie się wywiada w skozennie na wielka andrzej ostatnie to polityką nie się sposzty polski to to dziennikarzy wybora w zakłania spoleby na trump wybora w wiele przestanie polski przeształ
+o powinno się się pan na pani z robi przestanie będą nie szef sejm strach jak o robi w prezen szania na polski podpiera w sejm poszyło na miał pogranie się jeśli do nie wiele politycy politycy o przestanie się przemonanie się na nie zastanie przeształem https://t.co/46ovziejaf
+owa dziennikarzy powiana z szefowała przesztony na prezydent reformy w wielkie przestalizać po w prezen do prezydent przestanie powinne temacji w nie zamierając nie zaczyna remontrana to prezydent proszę trzeba w rozprawie w skranie z wybory przestanie prezydent w rzeczy na warszawie nie wiele polskich przeciwka dzieci jest przeształa podstawa na prezydent polski po polityczny przeciwka w przestan
+rt @misiensskip: politycy na szef spotyczyć za liczej misiaw rozu przeciwka w wiarod- w przesztował wybora na to miała postawie zaprawie nie wielki się sejm szef w za dziennikarzy o przeciwka na branią polski pan przestanie zapowiada się w wszystkich przed wymnie polski się w polski warszawie się się szko
+@gazeta_wyborcza https://t.co/dlepl8fiu7
+@romanimierys @polityka_pl na to szaczyna i nie zarzeczy za szansie polski to program obam się mieć zamiesza minister w przestało z priec na to to było nie wiele polski lepszy przeształ powinne w szczyte kontronski polski na bardzo pod 
+owa stracy nie nie zaktora w kraj wiadomości do przestanie nie zawsze było tylko na przestanie się policyjnej z wszystkich na bardzo o polski program nie się za pod. polski oszeł we wygrany polityczne jest prezen powinno zapewna w prezydent nie nie wybora w warszawie się nie miesięcie powinno się konstytucja co polski to ostatni to od reatyka na wygrał w polskich polski powiedziały na procenie wyb
+ychania policyje się przestanie zamierać do chodzi nie powinni nie to za zamiast dobre problem się na wygrał i konstytucycja w wielkie w szef się nie nie nie wygra politycy się się na prowadzi na to przestał czy nie wiele do nie wiele się będzie w podstawie na jest za przeształa wygrał poszeł przesztowały z tego ordynia w wierze przestanie się poszłość nie nie nie nie nie zapaniał zaczyna z wykaza
+ucha w prawdzi w prezydent dobre większy w polski w stał przestanie mieliść nie nie kontronej polityczne polski na za pogodnie zawcie nie prezydent przestaniej w sejm rozmawia za nowa mi się się w poszło się zabranie robi w kaczyńskiego nie to minister z #europegalizacja do na nie prezen powinna o przestanie na wielkie przestanie w stał do politycy na protest sejm postawa nie zawsze polski w wine 
+rt @macdac: jak przeszyłnacze się polski w prezydent przeciwka nie wygada i 
+
+- 6 iteration - above 2 fit..., let's try 5 - 
+
+loading training text from "../../data/trainset-restradamus1.pkl.gz"...
+('corpus length:', 2717903)
+retrieving chars...
+('total chars:', 424)
+sentence: @stzerko ja po neli reporterce dla 8 klasy, co czyta 8-letni
+---- loading model: 11,po,tweets-60-8-128-0.0_5_1.93.hdf5
+/Users/gregaw/code/adhoc/keras/src/tweeterator/brain.py:79: RuntimeWarning: divide by zero encountered in log
+  preds = np.log(preds) / temperature
+�bglomy poważn�
+
+europanie w polsce porada w pre$✝��2016 #polityczna @annawitten podzieje było w p�porowali się nie do pr�m�á�porian brako na���\podana polski #reformaedukacji @pisorgpl #r�2016 #reformaedukacji @pisorgpl #polski⚓�pquera @macierewicz @staskiemowicرú" #wideowyborcza #
+rt @maciek��p: рa https://t�c…
+@jakumkawartowan @annawitten w polska protestór do prawdziwie prawo zapominia do wygląda polski do polacy w prze�pé�☹
+@anna_wiety ✒tle reforme za�noś�pdąż też w ni��pol☹p⏭�g…��tv_pl #panowaje w przedرwie검cę prezesame przesonie pod poszło się się z przeczy�éi・c… https:�l“c…
+@macierewiewski @�polskie @macierewicz @czarda_do��nvea검� vider #eser polsa to trakt i po�pe�pol“�z����pьat…
+https://t.co/vwkilrexjy
+@rokmalnewicz @anna_wyborcza @pawelwr�ń\c…
+@brenkamig h검…
+podrowie za przeczyta�tego podstawie �iv✍ #marandacki #�t2016 #garpic≠: r����f #kongreszpart @mandard się�cekt konkrewski ä�bfartgo w poszłość �t…
+@maciekpronski @bart_wielinski polskie☃gh, ref��t16 #konkwal #m¡fundacji #skrawowacki @lis_tomasz, �miega nowo czy prawdziwa ⒑pot. to po�powiedzie podworczy�z… https://t.c잠�ppb�b���calonski prawdy w òa���vpl r�pac¡�z2016 https://t.co/dy5jnstmmk
+11,po,tweets-60-8-128-0.0_5_1.93.hdf5, div=0.4| @maciekpronski @bart_wielinski polskie☃gh, ref��t16 #konkwal #m¡fundacji #skrawowacki @lis_tomasz, �miega nowo czy prawdziwa ⒑pot. to po�powiedzie podworczy�z… https://t.c잠�ppb�b���calonski prawdy w òa���vpl r�pac¡�z2016 https://t.co/dy5jnstmmk
+
+
+- even worse here -  'let's try 4th'
+
+loading training text from "../../data/trainset-restradamus1.pkl.gz"...
+('corpus length:', 2717903)
+retrieving chars...
+('total chars:', 424)
+sentence: prokuratorzy chcą bronić niezależności śledczych. sąd odmawi
+---- loading model: 11,po,tweets-60-8-128-0.0_4_1.92.hdf5
+am przekaza nie jest się w minister szkolej i pozawiający polacy mają w polecamy do wielki zaprzecieli wygrał chciały z wypowiadam nie poza odczystwale rzeczych polskiej zasłuchamy polityczy problem w przeciwa prowadzą nie nie mało po krajuki polacy z rozmawienia z pis przejć polecam pod nie przeciwka nie podwierzy proc. przed z pozwyłość z polsce program pod inie się z prowadzą w polska i wielka 
+rt @reforma
+rt @maki: tak podwierczy z nie zaprawdę nie prezydent rzeczyczycie jest prezydentu https://t.co/2pmcfedgjh
+@annawitten czy o przeciwko polityczy prezesam minister, że protest https://t.co/rzyhpvnd6p
+a nie z nie przeciwki było miejscie pod konieczym nie wielkie będzie nie mają zawsze polacy #pis prezydenta o na pisowski o tak podstawo zaprawa polskiej do znarodzie polaków, zamy kanowskiego jest w przeciwki prezydenta program z pis. zawej kolejnie dziennikarz za wyjście nie zagranie nie dzienie w kuriey, za telewski sprawdziej prezesamy wybory przyjenta politycznie w problem z promowali do tera
+/Users/gregaw/code/adhoc/keras/src/tweeterator/brain.py:79: RuntimeWarning: divide by zero encountered in log
+  preds = np.log(preds) / temperature
+rt @macierewicz_a: tak się się na prezesam w to za politycznym i ma do promosowa się na przenawie miał nie przewalnie protest i protestycznej 
+e nie proszę nie wygrał problemy nie mi polecam za teraz polacy przeprawa polacy podejm podadzi zamiasta do nie przecienia jest nie może nie pozwrawia ma problem przegrowskiego konieczą polaków pozarczawa po teraz komuje z problem pod rekonie zadał politycznie z wypowiada się polskie nie polski partie nie wystarzy nie przed nie wiele nie przeciwki zamiasza z grzerowanie projekt sprawie mam pisowsk
+a ministersza postawa w wyporzety się przeciwowalny w polacy prowadzi nie w konie dziennikarzy tak zakaz zawe się nie proc. @lat_majdel @panewicka posłubie od polskiej na prowadzą pod wygrowie przeciwka do przeciwki polskiego nie nie przeciel prezesamy w pis pod beraz do prezesami się z prowarwa w sprawdzi zamianie przeciwki polak teraz nie dzienie teraz wybrzecił nie ma nie przeciwko przeczyta pr
+@annawitten @polityka_pl prowadzi przegrowanie w proc. pozagranie proc. po co za trump nie pisowskiego prawdziwa będzie w sprawdzi za protest może zawozułem nie mają za przeczyszamy było polskiego o przeciwki w straczy i przestarzy na protest w prezesamy w polskiej ;) https://t.co/yjlvrxctgh
+rt @bart_wienik: stana dzienie z w nie nie ma pod prezydentu jest prowadze i przewatowanie i polacy w pod pol
+11,po,tweets-60-8-128-0.0_4_1.92.hdf5, div=0.4| rt @bart_wienik: stana dzienie z w nie nie ma pod prezydentu jest prowadze i przewatowanie i polacy w pod pol
+
+
+- better now, but it's still only generation 4, let's try the dropout .1 version - at generation 6
+
+loading training text from "../../data/trainset-restradamus1.pkl.gz"...
+('corpus length:', 2717903)
+retrieving chars...
+('total chars:', 424)
+sentence: co do #komisjaweryfikacyjna, to mamy tu książkowy przykład z
+---- loading model: 11,po,tweets-60-8-128-0.1_6_1.95.hdf5
+astana wydaje w prezesie nie został niech nie polska jest podewka najmniej za polski pierwszy minister filun wypowiedzie reżanie za komporych przeciwko szyszki nie polskiego. w protestu z wystarczy nie może był chodzi rozwiąża na do polskiego przeciwko ma się zapowiedziy do o chodzi polski. pis przed polskiego na proszę zachował przed polski macierewicza powiedział z polski. zaprawie w protest się
+aczucie na nie polityczne na przed przed widerych polski z prezesia dzieci z prostał pod wiele to polska na do to samie nie polski ale polska zapowiedzi też w polsce na jest się nie przed polski spodali o to może protest nie polskiej za polska wiele o teraz musie w nie kolej się nie zamowanie na katał polska polski polski. minister wiele nie pis wydanie do stanie się z to nie wybory https://t.co/p
+a się do polski w polska przeszało na tylko powieczyć polski wyjaczy do polski przed nie do do bierzenia to nie wiele do nie w co wiadomości myśli to jak powiedział wielki do od kolejne w tak na szkodza nie nie wydanie nie polski najmonarów na tylko nie zaradko w stanie mieć proszę polskiego nie prawdy i polski o trump w polski i szyszki w wiele polski na możei polska w polska miejscda mi nie pols
+proszę na tak za kondrzenie @pisorgpl https://t.co/asevehexdn
+a tak nie nie prawda się pod to bardzo do nie polski polska strasie polskiego w proszę do polsce, przed polskiego przeswydanie za chodzi polski z tylko do się powiedzie wydał za bo w prezesowanie polska nie polska przed proszę nie było nie do polska w przed przed głosy na polski w tym wywiał za polsce, niechodzi przed to największy na marczy polska manistrach nie polska pod wierzego w replananie p
+@marcindakipl @macdac: może wykoranii na nie zamazanie minister 
+rt @macdac: przed polski na 
+@clokaszydlowicz polskiego na bardzo zaczyna z kolej miejsce. https://t.co/xzwofrxnmd
+rt @macdac: w ustawy to prostu polski polska manistra na rozmawianie nie wiele polskiego ciekawie o #polska polska nie będzie na polska do w polski bardziej to się nie prowiecki. https://t.co/droht1inds https://t.
+pani na nie wieczy nie wiele zamanie stanie w polskiego przejedie z czy przeszaczy na postarty nie nie może w przestanie na prawda konstroch o tym, że trump też prowadza na marszy przec
+11,po,tweets-60-8-128-0.1_6_1.95.hdf5, div=0.4| pani na nie wieczy nie wiele zamanie stanie w polskiego przejedie z czy przeszaczy na postarty nie nie może w przestanie na prawda konstroch o tym, że trump też prowadza na marszy przec
+
+- and let's get some later generations:
+
+loading training text from "../../data/trainset-restradamus1.pkl.gz"...
+('corpus length:', 2717903)
+retrieving chars...
+('total chars:', 424)
+sentence: @1e0efe15b84e479 a mnie przed oczami stanęły właśnie mundial
+---- loading model: 11,po,tweets-60-8-128-0.1_9_1.93.hdf5
+/Users/gregaw/code/adhoc/keras/src/tweeterator/brain.py:79: RuntimeWarning: divide by zero encountered in log
+  preds = np.log(preds) / temperature
+rt @lis_tomasz: o warto proszę zapraszam za mariania się przygocowany w polski polatyczny na powiedział na mam się na za proszę wyborczy w to będzie był przeprawie się się polityka polski https://t.co/zqrgrvktih
+rt @macdaczaszczana wierzysz polaków za pomysł podala wybrazem się polaków w stor
+europy @jareklam podażnie kata przez przeprawie na przez wierzą w pomysł mariem sprawie w jaskie z katastoracji polaków na wynie powiedzieć przez mają na wierządzie na szefa w sprawie, wieczerkowski z rozieli to jeszcze na w stodanie też zapowiedziała liste na rozieli przez przez polaków w obraz po sprawie do do faktystwa powiedzie do podzienników prze
+@bart_wielinski @pawelwal o dzisiejszy pani mają na powiedział jak na wielkie na powiedział, polityków powiedział z powiedział podatnie samo podatnich @tomaszskarowicz @tomaszskiemulda w trump #reformaedukacji ma to jest podatna winne i
+ny polaków na to do jest wystarcza i przez marie na na szalenie politycznych interesiacja polski o program i przyznają premier #reformaedukacji przez uprzemamienie na do #brazemodzie przyznają przeklityć na przeciwko przez tak sprawdzamy się był o wielkich na tego wywiad programa za co się na polaków pozważnia brazali w jest wy przeczytała się na wydają przez jest przez sprawie konteracji na pani 
+@gazeta_wyborczale
+@reformacja @tomaszskarelska @bart_wielinski w sami w polska przez program przez @amiaszczyka to jak pierwszy podzieci w komentarz powiedział na przed przeciwników na polaków nie jest w na co powiedział z jednych mam na to po w polskiego na sprawdze na chce za za się minister jest w wielkiej przeciwk
+a #reformaedukacji w też szefa to zacharze polski dzieci przez za domaczą przejanie polska w pani do polaków i w podatnie powiedział mam kamiał podatnich za się z polski pan za stolicji na temat w storodzicznie na powinnie podażnie chodzi na sie się za się gorzej. dzieci się w powiedział do kontrze z się na się w polska za programu w dobra prawdzająca w polityk
+a się wiadomości na polski na prawdzyka na żego polski pod podatnie w podróżnia polaków za sejmu na czystka zaprasza i najlepsze w o stracie przed pani się powiedział przez #reformaedukacji w kontraka na pozdrawienia i nie zapraszejszym z wywiada o przeciwów za działa prze
+to prezydent w na powiedział za powinni za przeciwskiego przyjach marek propatów w interesja w podatnie w na z portykują do przeciwko do ten na polityków powiedział powiedzia
+11,po,tweets-60-8-128-0.1_9_1.93.hdf5, div=0.4| to prezydent w na powiedział za powinni za przeciwskiego przyjach marek propatów w interesja w podatnie w na z portykują do przeciwko do ten na polityków powiedział powiedzia
+
+- not a huge difference to the one above
