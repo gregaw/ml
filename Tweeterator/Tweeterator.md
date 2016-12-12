@@ -66,7 +66,6 @@ You will see something like:
 
 Now the fun part begins - seeing what the have to say.
 
-
 ## Clinton Model
 
 Doing the above training steps on CLINTON = ["HillaryClinton", "TheBriefing2016"] will give us the clinton model to use.
@@ -99,4 +98,30 @@ And now the fun part - the generated bits:
 > rt @danscavino: thank you to the donald j. trump to this jobs for the with for the corruption watching in the #americagreatagain https://t.co/qtaogwykqsj
 
 ## Clinton:
+- model=11,clinton,tweets-40-2-128-0.1_4_1.58.hdf5, div=0.4
+
+> rt @hillaryclinton: we came to briaat of the companies to in the contront for the bally https://t.co/scjx1spixz
+
+> rt @martin: we can age and the @praiss the support to look to the world senate her in protection great community and ready to hillary for americans to the senate endorse to 
+
+> what county/county? can you on you voted to the said the is a president are a conolition and hi
+
+> rt @hillaryclinton: someton the fact with a before hillary in the controlling of
+
+> rt @martin: one of the senate so the sinters to new will do the committee for hume to donald trump as in americans en the is and her hillary is companies that we can look in 
+
+> america to state to defend we can be his committen. https://t.co/jpdvzrixqg
+
+> rt @menrationa: the president to he was the better the economic president the people at the debate to she is with the word to home of politics https://t.co/sqntjjkgmt
+
+> @spooltarb thanks for informing us! what's yout county/state ame in and what county/state are you in and what's thang here is country https://t.co/1hjupgydlt
+
+> rt @adamslily: here's @surefickal https://t.co/d5mxspwq60
+
+> @brenamancharl thanks for informing us! https://t.co/sko2eaxfhvn https://t.co/mbavqs0djd
+
+> @chardardsten thanks for informing us! what's yout county/state, so that info for you -- what county/state are you in? - dan
+
+> @kemcamans thanks for informing us! what county/state are you in and what is the name of your polling place? -allan
+
 
