@@ -34,5 +34,5 @@ The main idea is:
 Read more in the Tweeterator folder.
 - [Introduction and Trump vs Clinton](Tweeterator/Tweeterator.md)
 - [Gov vs Opposition (in Polish)](Tweeterator/pl.md)
-- and yes, Tweeterator speaks italian too: [Italian Tweets (La Repubblica, etc](Tweeterator/it.md)
+- and yes, Tweeterator speaks italian too: [Italian Tweets (La Repubblica, etc)](Tweeterator/it.md)
 
