@@ -2,3 +2,5 @@
 *.pyc
 Tweeterator/.idea
 *.iml
+twitter_config.py
+data

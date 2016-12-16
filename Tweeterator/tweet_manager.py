@@ -9,6 +9,7 @@ import tweepy
 from tweepy import OAuthHandler
 
 # https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/
+from preprocessing import find_significant_terms
 from twitter_config import *
 from utils import create_learning_data, load_learning_data
 
@@ -61,11 +62,11 @@ def download_tweets(tweeter_id, latest=True):
 
 def recreate_db():
     # c.execute('''DROP TABLE tweets''')
-    # c.execute('''CREATE TABLE tweets
-    #              (tweet_id_str text PRIMARY KEY, tweeter_id text, json text, text text)''')
-    #
-    # c.execute('''CREATE TABLE deps
-    #              (tweeter_id text PRIMARY KEY, parent_id text)''')
+    c.execute('''CREATE TABLE tweets
+                 (tweet_id_str text PRIMARY KEY, tweeter_id text, json text, text text)''')
+
+    c.execute('''CREATE TABLE deps
+                 (tweeter_id text PRIMARY KEY, parent_id text)''')
 
     conn.commit()
 
@@ -152,6 +153,27 @@ def create_trainingset(names, out_path):
     create_learning_data(out_path, get_texts_for_training(names))
     print len(load_learning_data(out_path))
 
+def create_trainingset_most_significant(names_path_list):
+    """
+        selects just the tweets containing top N most significant words for a given option: 'names'
+    """
+
+    texts_per_name = [ get_texts_for_training(names) for names, path in names_path_list ]
+    concatenated_texts_per_name = [ ' '.join(name_texts) for name_texts in texts_per_name ]
+    freqs, counts = find_significant_terms(concatenated_texts_per_name)
+
+    def texts_with_significant_words(texts, freqs, n):
+        return filter(lambda text: any(w in text for freq, w in freqs[:n]), texts)
+
+    print 'all tweets: ', list(map(lambda x: len(x), texts_per_name))
+    for i in [400]:
+        selected_texts_per_name = [ texts_with_significant_words(texts, freqs, i) for texts, freqs in zip(texts_per_name, freqs) ]
+        print 'tweets for freq#: ', i, list(map(lambda x: len(x), selected_texts_per_name))
+
+    for (names, out_path), texts in zip(names_path_list, selected_texts_per_name):
+        create_learning_data(out_path, texts)
+        print 'length of {} = {}'.format(out_path, len(load_learning_data(out_path)))
+
 
 auth = OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_secret)
@@ -182,6 +204,9 @@ try:
 
     # download_with_retweeters(RESTRADAMUS, latest=True)
     # create_trainingset(RESTRADAMUS, '../data/trainset-restradamus1.pkl.gz')
+    create_trainingset_most_significant([(RESTRADAMUS, '../data/trainset-restradamus-MS.pkl.gz'),
+                                         (PISTRADAMUS, '../data/trainset-pistradamus-MS.pkl.gz'),
+                                         ])
 
     # download_with_retweeters(TRUMP, latest=True)
     # create_trainingset(TRUMP, '../data/trainset-trumpstradamus.pkl.gz')
