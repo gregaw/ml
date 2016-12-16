@@ -36,3 +36,8 @@ Read more in the Tweeterator folder.
 - [Gov vs Opposition (in Polish)](Tweeterator/pl.md)
 - and yes, Tweeterator speaks italian too: [Italian Tweets (La Repubblica, etc)](Tweeterator/it.md)
 
+### Update: improvements with significant terms analysis 
+
+What if we took the most significant terms for each text set and used tweets that contain top N of those words?
+
+Tried it [here](Tweeterator/pl-significant-terms.md)
