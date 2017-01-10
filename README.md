@@ -1,4 +1,4 @@
-# ML for Machine Learning
+# ML for Machine Learning playground
 
 Exploring the machine learning models.
 
@@ -41,3 +41,9 @@ Read more in the Tweeterator folder.
 What if we took the most significant terms for each text set and used tweets that contain top N of those words?
 
 Tried it [here](Tweeterator/pl-significant-terms.md)
+
+## Most Significant Adjectives
+
+What are the most significant adjectives used with the word 'X' as opposed to the word 'Y'?
+
+How about using an elasticsearch-like 'significant terms' concept to answer that question. Check out some results [here](MostSignificant/TheMostSignificantAdjectives.ipynb).
