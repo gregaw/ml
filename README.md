@@ -51,3 +51,4 @@ How about using an elasticsearch-like 'significant terms' concept to answer that
 ## Open Pollution - Time Series Analysis
 
 Analysing the Krakow historical pollution data to discern trends over time (in cigarettes per day equivalent drops from 8 to 6 over few years sic!) and data-test strategies for minimum pollution intake (see [here](OpenPollution/open_pollution.ipynb)) or to simply interactively play with historical data (eg [here](OpenPollution/pm10-2016-krasinskiego.html)).
+NOTE: you will need to download the files and open locally, as github cant cope with the size it seems...
