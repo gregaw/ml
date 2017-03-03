@@ -1,6 +1,6 @@
 # ML for Machine Learning playground
 
-Exploring the machine learning models.
+Exploring the machine learning models and data in general.
 
 Have a look at the attached `jupyter python` notebooks.
 
@@ -42,8 +42,13 @@ What if we took the most significant terms for each text set and used tweets tha
 
 Tried it [here](Tweeterator/pl-significant-terms.md)
 
-## Most Significant Adjectives
+## Most Significant Adjectives - NLP
 
 What are the most significant adjectives used with the word 'X' as opposed to the word 'Y'?
 
 How about using an elasticsearch-like 'significant terms' concept to answer that question. Check out some results [here](MostSignificant/TheMostSignificantAdjectives.ipynb).
+
+## Open Pollution - Time Series Analysis
+
+Analysing the Krakow historical pollution data to discern trends over time (in cigarettes per day equivalent drops from 8 to 6 over few years sic!) and data-test strategies for minimum pollution intake (see [here](OpenPollution/open_pollution.ipynb)) or to simply interactively play with historical data (eg [here](OpenPollution/pm10-2016-krasinskiego.html)).
+NOTE: you will need to download the files and open locally, as github cant cope with the size it seems...
